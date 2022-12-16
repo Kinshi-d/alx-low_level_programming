@@ -2,12 +2,14 @@
 
 /**
  * print_numbers - print num from 0 - 9
+ *
+ *Description: owned by me
  * Return: void
  */
 
-void print_number(void)
+void print_numbers(void)
 {
-	char c;
+	int c;
 
 	for (c = '0'; c <= '9'; c++)
 	{
