@@ -2,8 +2,6 @@
 
 /**
  * print_numbers - print num from 0 - 9
- *
- *Description: owned by me
  * Return: void
  */
 
