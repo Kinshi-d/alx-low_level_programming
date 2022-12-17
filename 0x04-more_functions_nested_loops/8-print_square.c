@@ -3,7 +3,7 @@
 /**
  * print_square - prints n squares according to n number of times
  * @size: The number of squares/number of times
- * Return: void
+ * Return: empty
  */
 
 void print_square(int size)
